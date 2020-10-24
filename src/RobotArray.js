@@ -7,7 +7,7 @@ export const robots = [
 
   {
     id: 1,
-    name: "Oppan",
+    name: "Riper",
     rank: "Radiant",
   },
 
@@ -19,19 +19,19 @@ export const robots = [
 
   {
     id: 3,
-    name: "khwinza",
+    name: "Noob",
     rank: "Iron",
   },
 
   {
     id: 4,
-    name: "Himself",
+    name: "003",
     rank: "Bronze",
   },
 
   {
     id: 5,
-    name: "Tqiqtiqat",
+    name: "Geek",
     rank: "Silver",
   },
 
@@ -54,8 +54,8 @@ export const robots = [
   },
 
   {
-      id: 9,
-      name : "chdid9",
-      rank: "plat"
-  }
+    id: 9,
+    name: "Salamon",
+    rank: "plat",
+  },
 ];
